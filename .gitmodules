@@ -1,0 +1,9 @@
+[submodule "MobileClientMES"]
+	path = MobileClientMES
+	url = https://github.com/eNViDAT0001/MobileClientMES.git
+[submodule "MobileAdminMES"]
+	path = MobileAdminMES
+	url = https://github.com/eNViDAT0001/MobileAdminMES.git
+[submodule "MES_Backend"]
+	path = MES_Backend
+	url = https://github.com/eNViDAT0001/MES_Backend.git
